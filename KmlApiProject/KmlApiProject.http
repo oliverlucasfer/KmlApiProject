@@ -1,0 +1,6 @@
+@KmlApiProject_HostAddress = http://localhost:5055
+
+GET {{KmlApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
